@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">UAS_DPM_TI5A_AJAAPPS</string>
+    <string name="snack_bangka">Snack Bangka</string>
+    <string name="see_your">See your favourite snacks</string>
+    <string name="gts">Getas Ikan Bangka</string>
+    <string name="rp.38">Rp.38.000,-</string>
+    <string name="rp.20">Rp.20.000,-</string>
+    <string name="rp.382">Rp.38.000,-</string>
+    <string name="rp.90">Rp.90.000,-</string>
+    <string name="krc">Kricu Stik Telur Cumi</string>
+    <string name="kmplng">Kemplang Panggang Ikan</string>
+    <string name="abon">Abon Ikan Tenggiri</string>
+    <string name="dtl">Details</string>
 </resources>
