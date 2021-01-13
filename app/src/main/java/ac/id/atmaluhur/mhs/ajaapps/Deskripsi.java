@@ -1,28 +1,28 @@
 package ac.id.atmaluhur.mhs.ajaapps;
 
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+
 import androidx.appcompat.app.AppCompatActivity;
 
-public class Halaman extends AppCompatActivity {
-    private Button btnd;
+public class Deskripsi extends AppCompatActivity {
+    private Button bback;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.halaman_produk);
+        setContentView(R.layout.deskripsi_produk);
 
-        btnd = findViewById(R.id.btnd);
+        bback = findViewById(R.id.bback);
 
-        btnd.setOnClickListener(new View.OnClickListener() {
+        bback.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent h = new Intent(Halaman.this, Deskripsi.class);
-                startActivity(h);
+                Intent b = new Intent(Deskripsi.this, Halaman.class);
+                startActivity(b);
             }
         });
 

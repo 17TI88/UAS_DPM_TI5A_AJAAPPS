@@ -11,4 +11,11 @@
     <string name="kmplng">Kemplang Panggang Ikan</string>
     <string name="abon">Abon Ikan Tenggiri</string>
     <string name="dtl">Details</string>
+    <string name="kricu">Kricu Stik Telur Cumi</string>
+    <string name="harga">Rp38.000,-</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="tombol">Beli Sekarang</string>
+    <string name="berat">Berat packing: 250 Gram | Berat bersih: 200 Gram</string>
+    <string name="hh">Harga: Rp 38.000</string>
+    <string name="komp">Komposisi: Telor Cumi, Sagu, Penyedap Rasa, dan Minyak Sayur</string>
 </resources>
